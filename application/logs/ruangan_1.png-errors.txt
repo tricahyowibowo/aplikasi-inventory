@@ -1,0 +1,199 @@
+2024-03-13 12:18:15: 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 71</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 53</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 62</p>
+
+
+</div>2024-03-20 11:27:00: 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 71</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 53</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 62</p>
+
+
+</div>2024-03-20 11:27:29: 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 71</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 53</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 62</p>
+
+
+</div>2024-03-20 11:28:00: 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 71</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 53</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 62</p>
+
+
+</div>2024-03-20 11:35:09: 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 71</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 53</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 62</p>
+
+
+</div>2024-03-20 11:36:25: 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 71</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 53</p>
+
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Trying to access array offset on value of type int</p>
+<p>Filename: qrcode/qrsplit.php</p>
+<p>Line Number: 62</p>
+
+
+</div>
